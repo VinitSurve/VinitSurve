@@ -1,3 +1,6 @@
+<head><title>Portfolio Of Frontend Web Developer| Vinit Surve</title>
+    <link rel="icon" href="title.png" type="image/x-icon">
+</head>
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Frontend Web Developer Vinit Surve</h1>
 - 🌱 I’m currently learning Javascript, **React, Angular, Vue**
