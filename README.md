@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VinitSurve/VinitSurve/main/header.png" alt="Header" width="100%"/>
+  <img src="https://ik.imagekit.io/vinitsurve/Black%20Minimalist%20Linkedin%20Banner.png?updatedAt=1751821742887" alt="Header" width="100%"/>
 </div>
 
 <h1 align="center">Hello World! I'm Vinit Surve 👋</h1>
@@ -341,6 +341,6 @@ const vinit = {
 - Organizing hackathons, speaker sessions, and workshops
 
 <div align="center">
-  <p>Last updated: 2025-07-06 16:13:35</p>
+  <p>Last updated: 2025-07-06 17:11:07</p>
   <h3>🧠 "I believe a single line of code can bring people together."</h3>
 </div>
