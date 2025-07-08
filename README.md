@@ -147,6 +147,7 @@ const vinit = {
         <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
         <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
       </div>
     </td>
   </tr>
@@ -169,6 +170,8 @@ const vinit = {
         <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
         <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+        <img src="https://img.shields.io/badge/-Gemini_API-8E44AD?style=flat-square&logo=google&logoColor=white" alt="Gemini API"/>
       </div>
     </td>
     <td width="50%">
@@ -187,12 +190,47 @@ const vinit = {
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
         <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
         <img src="https://img.shields.io/badge/-PLpgSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PLpgSQL"/>
         <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
       </div>
     </td>
   </tr>
 </table>
+
+## 💻 Dev Humor 
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=default" alt="Dev Jokes" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <p><strong>Why do programmers prefer dark mode?</strong></p>
+        <p>Because light attracts bugs! 🪲</p>
+      </td>
+      <td align="center">
+        <p><strong>How many programmers does it take to change a light bulb?</strong></p>
+        <p>None – it's a hardware problem! 💡</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p><strong>CSS Pun:</strong></p>
+        <p>Why did the developer go broke?</p>
+        <p>Because he used up all his cache! 💰</p>
+      </td>
+      <td align="center">
+        <p><strong>Git Humor:</strong></p>
+        <p>Roses are red, violets are blue;</p>
+        <p>Unexpected merge conflict on line 32 🌹</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## ⚙️ Web Developer Toolkit
 
@@ -341,6 +379,6 @@ const vinit = {
 - Organizing hackathons, speaker sessions, and workshops
 
 <div align="center">
-  <p>Last updated: 2025-07-06 17:11:07</p>
+  <p>Last updated: 2025-07-08 07:05:39</p>
   <h3>🧠 "I believe a single line of code can bring people together."</h3>
 </div>
