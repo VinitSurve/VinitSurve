@@ -5,7 +5,7 @@
 <h1 align="center">Hello World! I'm Vinit Surve 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=600&size=30&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Web+Lead+at+GDG+On+Campus;President+of+Vertex+Community;Web+Developer+%26+Community+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=600&size=30&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Organizer+at+GDG+On+Campus;President+of+Vertex+Community;Web+Developer+%26+Community+Builder" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 I'm a passionate tech community leader and web developer who believes that **a single line of code can bring people together**. Currently serving as:
 
-- 🚀 **Web Lead** at [Google Developer Groups (GDG) On Campus](https://gdg.community.dev/gdg-on-campus-bharati-vidyapeeths-department-of-management-studies-navi-mumbai-india/) – BVDU DMS
+- 🚀 **Organizer** at [Google Developer Groups (GDG) On Campus](https://gdg.community.dev/gdg-on-campus-bharati-vidyapeeths-department-of-management-studies-navi-mumbai-india/) – BVDU DMS
 - 🌟 **President** of the [Vertex Community](https://bvdu-codersclub.netlify.app/) (500+ members)
 - 🎓 **Technical Co-Secretary** in the Student Council at BVDU DMS
 - 👨‍🏫 **Computer Instructor** for young learners
